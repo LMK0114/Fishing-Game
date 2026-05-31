@@ -1,0 +1,29 @@
+Player Information:
+Day: 3
+Money: 107.79
+RodLevel: 4
+RodName: Wood Rod
+InventoryCapacity: 15
+FishCount: 4
+---------------------------------------------
+Fish Information:
+Name: Cod
+Weight: 1.81
+PricePerKg: 17.12
+Rarity: 0
+---
+Name: Salmon
+Weight: 3.42
+PricePerKg: 36.65
+Rarity: 3
+---
+Name: Tropical Fish
+Weight: 1.99
+PricePerKg: 14.14
+Rarity: 0
+---
+Name: Cod
+Weight: 1.20
+PricePerKg: 7.21
+Rarity: 0
+---

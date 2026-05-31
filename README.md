@@ -1,10 +1,10 @@
-#  The SoulScape
+#  Fishing Game
 A fishing simulation game you can play on your computer, created using C++. It includes changing weather conditions, options to upgrade your fishing rod, manage your inventory, and save or load your game. Players can catch various types of fish, sell them for money, and improve their gear to become expert fishermen.
 ## Overview
 This Fishing Game is a video game made in C++ where you play as a fisherman trying to get rich. The game includes changing weather that impacts how many fish you can catch, different types of fish with varying rarity, options to upgrade your fishing rods, and ways to expand your inventory. You can also save and load your game. Players need to carefully manage their resources, choose the best times to fish based on the weather, and spend wisely on upgrades to earn more money.
 ## Features
 * Dynamic Weather System
-  ** Three weather conditions: Sunny, Rainy, and Stormy
+** Three weather conditions: Sunny, Rainy, and Stormy
 ## Technologies Used
 * C++
 * OpenGL
